@@ -1,0 +1,12 @@
+[submodule "bulldog-tax"]
+	path = bulldog-tax
+	url = https://github.com/troydota/bulldog-tax
+[submodule "modlogs"]
+	path = modlogs
+	url = https://github.com/troydota/modlogs
+[submodule "poll-api"]
+	path = poll-api
+	url = https://github.com/troydota/poll-api
+[submodule "poll-frontend"]
+	path = poll-frontend
+	url = https://github.com/troydota/poll-frontend
